@@ -2,7 +2,7 @@
 
 ## Creación de pagina para reproducir videos - leonidasesteban.com
 
-## archivos necesarios en html - css - java
+Archivos necesarios en html - css - java
 ## 1.- Práctica de html:</p>
 creacion de titulos y elementos que contiene el proyecto
 ## 2.- Práctica de CSS:
