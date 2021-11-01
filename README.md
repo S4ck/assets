@@ -1,6 +1,9 @@
 # assets
+<p> <h3>
 Creación de pagina para reproducir videos - leonidasesteban.com
-archivos necesarios en html - css - java
+</p>
+<div>
+<p> archivos necesarios en html - css - java</P>
 Práctica de html:
 creacion de titulos y elementos que contiene el proyecto
 Práctica de CSS:
